@@ -24,7 +24,14 @@ Programming languages
 - [ ] VB.NET
 - [x] C#
 
+Programming languages
+- [ ] Python
+- [x] SQL
+- [x] Javascript
+
 ### Leadership
 
 Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+
 - Contributed to open source projects
+
