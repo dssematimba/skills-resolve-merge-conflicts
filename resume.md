@@ -22,7 +22,7 @@ Programming languages
 - [x] SQL
 - [x] Javascript
 - [ ] VB.NET
-- [x] C#
+- [x] C Sharp
 
 Programming languages
 - [ ] Python
