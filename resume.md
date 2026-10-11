@@ -18,16 +18,12 @@ Provide world class support to customers on the GitHub platform
 
 Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
 Programming languages
+
 - [x] Python
 - [x] SQL
 - [x] Javascript
-- [ ] VB.NET
+- [x] VB.NET
 - [x] C Sharp
-
-Programming languages
-- [ ] Python
-- [x] SQL
-- [x] Javascript
 
 ### Leadership
 
